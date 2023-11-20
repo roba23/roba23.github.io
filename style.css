@@ -6,7 +6,7 @@ body{
     font-weight: 400;
 }
 h1{
-    font-size: 16px;
+    font-size: 18px;
     color: hsl(218, 44%, 22%);
     font-family: 'Outfit', sans-serif;
     font-weight: 800;
@@ -16,15 +16,15 @@ p{
 }
 #qr_container{
     width: 250px;
-    height: 400px;
+    height: 450px;
     background-color: hsl(0, 0%, 100%);
-    margin: 20vh auto;
+    margin: 15vh auto;
     padding: 15px 15px;
     border-radius: 20px;
 }
 #qr-code{
     
-    height:245px;
+    height:280px;
     margin: 0 auto 20px auto;
 }
 
